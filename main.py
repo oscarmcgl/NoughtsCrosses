@@ -5,14 +5,9 @@ import turtle
 import json
 import score
 
-import wx
 
 playing = True 
 
-
-app = wx.App()
-frm = wx.Frame(None, title="Noughts and Crosses")
-frm.Show()
 
 a = "1"
 b = "2"
